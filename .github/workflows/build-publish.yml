@@ -1,4 +1,4 @@
-name: "JFrog Integration Example"
+name: "prasad JFrog Integration "
 on: push
 
 jobs:
